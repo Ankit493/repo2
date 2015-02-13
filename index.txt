@@ -1,0 +1,37 @@
+id- UUnknownu4
+
+pwd-apwz0553
+
+http://blog.modulus.io/nodejs-and-express-create-rest-api
+
+
+
+git clonu ulr(from github)
+
+then enter in folder of git
+
+cd cloud1
+
+git status
+
+ls
+
+vi file1
+
+git add file1 
+
+git add -u file1
+
+git commit -m "first work"
+
+git push origin master
+
+git pull origin master
+
+vi git ignore
+
+cd ..
+
+rm -rf cloud1
+
+
